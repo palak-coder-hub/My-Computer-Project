@@ -1,0 +1,83 @@
+
+.travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin: 20px;
+}
+
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: orange;
+}
+
+
+.book 
+{
+    margin-bottom: 20px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+#top
+{
+  background-color: #de0950;
+  color :#0b0e0d;
+  font-size : 20px;
+}
+#topp
+{
+  background-color: #de0950;
+  color :#1aebdd;
+  font-size : 20px;
+}
+h1
+{
+ text-align: center;
+  color: #1aebdd;
+  font-family: 'Sono', sans-serif;
+  font-weight: bolder;
+}
+#heading2
+{
+ text-align: center;
+  color: #f0f341;
+  font-family: 'Sono', sans-serif;
+  font-size: 22px;
+}
+#last
+{
+    color: blueviolet;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+
+
+
